@@ -1,0 +1,55 @@
+Software Engineering
+Software engineering- is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.
+Traditional programming focuses on writing code, so it is a technical skill while software engineering encompasses programming with a broader context of software development life cycle. Programming is involved in one stage of the SDLC that is Implementation. Software engineering is involved in all the stages of SDLC.
+
+Software Development Life Cycle (SDLC)
+We have six phases in the SDLC:
+
+Requirements- This is where we gather and document user needs and system requirements. This process guides the development of several important documents, software requirement specifications (SRS),use case document and requirement traceability matrix document.
+
+Design- This phase is where we create high-level and detailed designs of software architecture and user interface. The original plan and vision are elaborated into a software design document (SDD) which includes the system design, programming language to be used, platform to use and application security measures.
+
+Implementation- This SDLC phase can take the longest as this is where you write code and build software according to the design specifications. In this phase members divide the project into software modules and turn the software requirements into code that makes the product.
+
+Testing-Conducting varies tests to ensure the software meets quality standards and functional. This is where the assurance team performs validation testing to ensure the product is working properly and meets its requirements. Its important as it can hash out major user experience issues and security issues.
+
+Deployment- This phase is where we release the software to the intended users. You can automate this process and schedule your deployment depending on the type.
+
+Maintenance-This phase is where users may find bugs and errors that were missed in the testing phase and they are provided with ongoing updates and enhancements to the software after deployment.
+
+Agile Vs Waterfall models
+Agile model arranges the SDLC phases into several development cycles with the team delivering small incremental software changes in each cycle. It is highly efficient and rapid development cycles help teams identify issues early on. It relies on user feedback which could lead to excessive scope changes or project management termination. Its best for projects that require flexibility and ability to change over time. The Waterfall model however arranges the phases of the SDLC sequentially with each phase depending on the outcome of the last one. Its hard to make changes once a phase is complete in some cases they might start again from the first phase. Waterfall model is best for small well-defined projects.
+Requirements engineering-is the process of identifying, eliciting, analysing, specifying validating and managing the needs and expectations of the client. This phase is crucial in the SDLC for converting information gathered from the client into clear requirements for the development team. A mistake in this phase could lead to wrong project delivery.
+
+
+Software Design Principles
+Modularity in SDLC-refers to the practice of breaking down a large software system into smaller independent components. So in such a practise each component handles a specific function or set of functions. By implementing modularity in SDLC you create software that is more maintainable and scalable. How does it improve maintainability? Components can be updated or modified without affecting the system since the software is broken into smaller pieces. Its scalable as new components can be added to the system without affecting entire system.
+
+Software testing
+Before getting the software out the door to the client or users, its important to have the quality assurance team perform validation testing to ensure proper functionality.
+Types of testing:
+1.Unit testing-Testing individual components or modules of the software.
+2.Integration testing-testing interactions between different components.
+3.System testing- testing the entire system as a whole.
+4. Acceptance testing-testing the software against user requirements to ensure it meets user needs.
+
+Version Control Systems
+Version Control Systems are software tools for tracking changes to the source code and coordinating work among team members. These tools are important as they enhance productivity, collaboration and code quality by providing developers with features such as code editors and debugging tools. Good examples of VCS is git, BitKeeper, GNU Bazaar,Darcs…
+Some features of git include: Creates backup, supports collaboration, free and open source.
+Some features of BitKeeper: great merge capability, distributed operation.
+
+Software Project Management
+Software project manager overseas the planning, execution and delivery of software projects. Some challenges faced would be tight deadlines as there is a pressure to deliver software products on a schedule which results in rushed development and compromises quality. Another would be adapting to change as he/she would manage changes and pivots. Some responsibilities would be budgeting that is managing project expenses and resources and communication as he discusses with everyone from different phases.
+
+Software maintenance
+Software maintenance phase ensures the asset is fully functional and performs optimally. It includes activities such as bug fixing, performance improvement, security enhancements and software updates. Its important to ensure that the software runs smoothly after deployment.
+Ethical Considerations in Software Engineering
+Ethical issues that software engineers face include:
+Privacy and Data security: Engineers work with sensitive user data so ethical issues arise when data is collected, stored or used without user consent. To adhere to ethical standards, they should ensure that the privacy and confidentiality and security of user data.
+Bias and Fairness: Bias can inadvertently be included in their code so ensure they adhere to ethical standards. Engineers need to be vigilant about identifying and mitigate bias in their code to ensure fair treatment.
+
+
+ 
+
+
+
